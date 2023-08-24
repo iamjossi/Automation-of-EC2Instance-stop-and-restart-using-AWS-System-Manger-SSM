@@ -1,0 +1,1 @@
+# Automation-of-EC2Instance-stop-and-restart-using-AWS-System-Manger-SSM
